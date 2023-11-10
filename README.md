@@ -1,2 +1,7 @@
 # ValidadorCPF
-Validador de CPF em JS
+Simples formulário com validações
+
+## Aqui uso
+* Typescript
+* Webpack
+* POO
